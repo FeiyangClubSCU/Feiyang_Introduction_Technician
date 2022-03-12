@@ -4,7 +4,7 @@
 
 ## 网站截图
 
-![screen](D:\工程项目\飞扬\Feiyang_Introduction_Technician\screen.jpg)
+![screen](\screen.jpg)
 
 ## 安装方法
 
