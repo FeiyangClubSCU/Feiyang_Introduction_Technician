@@ -4,7 +4,7 @@
 
 ## 网站截图
 
-![screen](\screen.jpg)
+![screen](screen.jpg)
 
 ## 安装方法
 
